@@ -22,6 +22,4 @@ An Web proxy works as follows:
 5. It sends the client’s HTTP request to the Web server.
 6. It forwards the response it receives from the Web server to the browser.
 
-
-
-
+Those MiniProjects are done by:Yousef Hadder, Alaa Abu Hantash and Mais Tawalbeh.
