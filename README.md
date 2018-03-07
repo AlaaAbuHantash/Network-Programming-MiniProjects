@@ -21,7 +21,8 @@ fill your ID in the box and click on submit.
 you can see that your ID will apear in the log.out file in the field that is called (Data entered(ID)).
 
 # MiniProject4
-A UDP-based client-server ping application using socket API. 
+A UDP-based client-server ping application using socket API.
+Our program don't have any consideration required to compile and run, in server code: just you need to use "MiniProject4-server.c " to compile it and " ./a.out  PORT# RATIO " to run it and, in client code: just you need to use "MiniProject4-client.c " to compile it and " ./a.out  IP# PORT# #OF PACKETS " to run it .
 
 # MiniProject5
 An Web proxy works as follows:
